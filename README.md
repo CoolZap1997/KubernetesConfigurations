@@ -1,2 +1,1 @@
-# KubernetesConfigurations
-Just Practice configuration files
+This is the collection of all kubernetes configuration files you have implemented
